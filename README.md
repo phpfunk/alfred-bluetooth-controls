@@ -35,10 +35,13 @@ Examples
 
 Download
 ----------------
-[Bluetooth Controls](http://dl.dropbox.com/u/45930/Alfred%20Apps/Bluetooth%20Controls/Bluetooth%20Controls.alfredextension)
+[Bluetooth Controls](https://github.com/phpfunk/alfred-bluetooth-controls/downloads)
     
 
 ## Version History ##
+### 1.1 - August 14, 2011###
+- Growl support added by pfbruno
+
 ### 1.0.0 - August 14, 2011###
  
 - Commit: Initial Release
